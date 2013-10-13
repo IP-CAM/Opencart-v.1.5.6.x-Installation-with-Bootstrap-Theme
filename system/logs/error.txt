@@ -1,0 +1,69 @@
+2013-09-15 2:36:42 - PHP Notice:  Undefined index: en in W:\home\opencat.dev\www\index.php on line 180
+2013-09-15 2:36:42 - PHP Notice:  Undefined index: en in W:\home\opencat.dev\www\index.php on line 181
+2013-09-15 2:36:42 - PHP Notice:  Undefined index: en in W:\home\opencat.dev\www\index.php on line 184
+2013-09-15 2:36:42 - PHP Notice:  Undefined index: en in W:\home\opencat.dev\www\index.php on line 185
+2013-09-15 2:36:42 - PHP Notice:  Error: Could not load language ! in W:\home\opencat.dev\www\system\library\language.php on line 39
+2013-09-15 2:38:26 - PHP Notice:  Undefined index: en in W:\home\opencat.dev\www\index.php on line 180
+2013-09-15 2:38:26 - PHP Notice:  Undefined index: en in W:\home\opencat.dev\www\index.php on line 181
+2013-09-15 2:38:26 - PHP Notice:  Undefined index: en in W:\home\opencat.dev\www\index.php on line 184
+2013-09-15 2:38:26 - PHP Notice:  Undefined index: en in W:\home\opencat.dev\www\index.php on line 185
+2013-09-15 2:38:26 - PHP Notice:  Error: Could not load language ! in W:\home\opencat.dev\www\system\library\language.php on line 39
+2013-09-15 2:39:43 - PHP Notice:  Undefined index: en in W:\home\opencat.dev\www\index.php on line 180
+2013-09-15 2:39:43 - PHP Notice:  Undefined index: en in W:\home\opencat.dev\www\index.php on line 181
+2013-09-15 2:39:43 - PHP Notice:  Undefined index: en in W:\home\opencat.dev\www\index.php on line 184
+2013-09-15 2:39:43 - PHP Notice:  Undefined index: en in W:\home\opencat.dev\www\index.php on line 185
+2013-09-15 2:39:43 - PHP Notice:  Error: Could not load language ! in W:\home\opencat.dev\www\system\library\language.php on line 39
+2013-09-15 2:39:44 - PHP Notice:  Undefined index: en in W:\home\opencat.dev\www\index.php on line 180
+2013-09-15 2:39:44 - PHP Notice:  Undefined index: en in W:\home\opencat.dev\www\index.php on line 181
+2013-09-15 2:39:44 - PHP Notice:  Undefined index: en in W:\home\opencat.dev\www\index.php on line 184
+2013-09-15 2:39:44 - PHP Notice:  Undefined index: en in W:\home\opencat.dev\www\index.php on line 185
+2013-09-15 2:39:44 - PHP Notice:  Error: Could not load language ! in W:\home\opencat.dev\www\system\library\language.php on line 39
+2013-09-15 2:39:44 - PHP Notice:  Undefined index: en in W:\home\opencat.dev\www\index.php on line 180
+2013-09-15 2:39:44 - PHP Notice:  Undefined index: en in W:\home\opencat.dev\www\index.php on line 181
+2013-09-15 2:39:44 - PHP Notice:  Undefined index: en in W:\home\opencat.dev\www\index.php on line 184
+2013-09-15 2:39:44 - PHP Notice:  Undefined index: en in W:\home\opencat.dev\www\index.php on line 185
+2013-09-15 2:39:44 - PHP Notice:  Error: Could not load language ! in W:\home\opencat.dev\www\system\library\language.php on line 39
+2013-09-15 2:39:45 - PHP Notice:  Undefined index: en in W:\home\opencat.dev\www\index.php on line 180
+2013-09-15 2:39:45 - PHP Notice:  Undefined index: en in W:\home\opencat.dev\www\index.php on line 181
+2013-09-15 2:39:45 - PHP Notice:  Undefined index: en in W:\home\opencat.dev\www\index.php on line 184
+2013-09-15 2:39:45 - PHP Notice:  Undefined index: en in W:\home\opencat.dev\www\index.php on line 185
+2013-09-15 2:39:45 - PHP Notice:  Error: Could not load language ! in W:\home\opencat.dev\www\system\library\language.php on line 39
+2013-09-15 2:39:46 - PHP Notice:  Undefined index: en in W:\home\opencat.dev\www\index.php on line 180
+2013-09-15 2:39:46 - PHP Notice:  Undefined index: en in W:\home\opencat.dev\www\index.php on line 181
+2013-09-15 2:39:46 - PHP Notice:  Undefined index: en in W:\home\opencat.dev\www\index.php on line 184
+2013-09-15 2:39:46 - PHP Notice:  Undefined index: en in W:\home\opencat.dev\www\index.php on line 185
+2013-09-15 2:39:46 - PHP Notice:  Error: Could not load language ! in W:\home\opencat.dev\www\system\library\language.php on line 39
+2013-09-15 2:39:47 - PHP Notice:  Undefined index: en in W:\home\opencat.dev\www\index.php on line 180
+2013-09-15 2:39:47 - PHP Notice:  Undefined index: en in W:\home\opencat.dev\www\index.php on line 181
+2013-09-15 2:39:47 - PHP Notice:  Undefined index: en in W:\home\opencat.dev\www\index.php on line 184
+2013-09-15 2:39:47 - PHP Notice:  Undefined index: en in W:\home\opencat.dev\www\index.php on line 185
+2013-09-15 2:39:47 - PHP Notice:  Error: Could not load language ! in W:\home\opencat.dev\www\system\library\language.php on line 39
+2013-09-15 2:39:47 - PHP Notice:  Undefined index: en in W:\home\opencat.dev\www\index.php on line 180
+2013-09-15 2:39:47 - PHP Notice:  Undefined index: en in W:\home\opencat.dev\www\index.php on line 181
+2013-09-15 2:39:47 - PHP Notice:  Undefined index: en in W:\home\opencat.dev\www\index.php on line 184
+2013-09-15 2:39:47 - PHP Notice:  Undefined index: en in W:\home\opencat.dev\www\index.php on line 185
+2013-09-15 2:39:47 - PHP Notice:  Error: Could not load language ! in W:\home\opencat.dev\www\system\library\language.php on line 39
+2013-09-22 1:52:07 - PHP Notice:  Error: Could not load language payment/intellectmoney! in W:\home\opencat.dev\www\system\library\language.php on line 39
+2013-10-13 21:26:02 - PHP Notice:  Undefined variable: column_price in W:\home\opencat.dev\www\admin\view\template\extension\openbay_itemlist.tpl on line 161
+2013-10-13 21:27:56 - PHP Warning:  Cannot modify header information - headers already sent by (output started at W:\home\opencat.dev\www\admin\language\russian\module\news.php:1) in W:\home\opencat.dev\www\system\engine\controller.php on line 28
+2013-10-13 21:27:56 - PHP Warning:  Cannot modify header information - headers already sent by (output started at W:\home\opencat.dev\www\admin\language\russian\module\news.php:1) in W:\home\opencat.dev\www\system\engine\controller.php on line 29
+2013-10-13 21:29:23 - PHP Warning:  Cannot modify header information - headers already sent by (output started at W:\home\opencat.dev\www\admin\language\russian\module\news.php:1) in W:\home\opencat.dev\www\system\engine\controller.php on line 28
+2013-10-13 21:29:23 - PHP Warning:  Cannot modify header information - headers already sent by (output started at W:\home\opencat.dev\www\admin\language\russian\module\news.php:1) in W:\home\opencat.dev\www\system\engine\controller.php on line 29
+2013-10-13 21:46:57 - PHP Warning:  Cannot modify header information - headers already sent by (output started at W:\home\opencat.dev\www\admin\language\russian\module\news.php:1) in W:\home\opencat.dev\www\system\engine\controller.php on line 28
+2013-10-13 21:46:57 - PHP Warning:  Cannot modify header information - headers already sent by (output started at W:\home\opencat.dev\www\admin\language\russian\module\news.php:1) in W:\home\opencat.dev\www\system\engine\controller.php on line 29
+2013-10-13 21:47:35 - PHP Warning:  Cannot modify header information - headers already sent by (output started at W:\home\opencat.dev\www\admin\language\russian\module\news.php:1) in W:\home\opencat.dev\www\system\engine\controller.php on line 28
+2013-10-13 21:47:35 - PHP Warning:  Cannot modify header information - headers already sent by (output started at W:\home\opencat.dev\www\admin\language\russian\module\news.php:1) in W:\home\opencat.dev\www\system\engine\controller.php on line 29
+2013-10-13 21:50:54 - PHP Warning:  Cannot modify header information - headers already sent by (output started at W:\home\opencat.dev\www\admin\language\russian\module\news.php:1) in W:\home\opencat.dev\www\system\engine\controller.php on line 28
+2013-10-13 21:50:54 - PHP Warning:  Cannot modify header information - headers already sent by (output started at W:\home\opencat.dev\www\admin\language\russian\module\news.php:1) in W:\home\opencat.dev\www\system\engine\controller.php on line 29
+2013-10-13 21:50:57 - PHP Warning:  Cannot modify header information - headers already sent by (output started at W:\home\opencat.dev\www\admin\language\russian\module\news.php:1) in W:\home\opencat.dev\www\system\engine\controller.php on line 28
+2013-10-13 21:50:57 - PHP Warning:  Cannot modify header information - headers already sent by (output started at W:\home\opencat.dev\www\admin\language\russian\module\news.php:1) in W:\home\opencat.dev\www\system\engine\controller.php on line 29
+2013-10-13 22:20:07 - PHP Notice:  Undefined variable: column_price in W:\home\opencat.dev\www\admin\view\template\extension\openbay_itemlist.tpl on line 161
+2013-10-13 22:20:44 - PHP Warning:  Cannot modify header information - headers already sent by (output started at W:\home\opencat.dev\www\admin\language\russian\module\news.php:1) in W:\home\opencat.dev\www\system\engine\controller.php on line 28
+2013-10-13 22:20:44 - PHP Warning:  Cannot modify header information - headers already sent by (output started at W:\home\opencat.dev\www\admin\language\russian\module\news.php:1) in W:\home\opencat.dev\www\system\engine\controller.php on line 29
+2013-10-13 22:20:47 - PHP Warning:  Cannot modify header information - headers already sent by (output started at W:\home\opencat.dev\www\admin\language\russian\module\news.php:1) in W:\home\opencat.dev\www\system\engine\controller.php on line 28
+2013-10-13 22:20:47 - PHP Warning:  Cannot modify header information - headers already sent by (output started at W:\home\opencat.dev\www\admin\language\russian\module\news.php:1) in W:\home\opencat.dev\www\system\engine\controller.php on line 29
+2013-10-13 23:10:29 - PHP Notice:  Undefined variable: column_price in W:\home\opencat.dev\www\admin\view\template\extension\openbay_itemlist.tpl on line 161
+2013-10-13 23:22:25 - PHP Notice:  Error: Unknown column 'image' in 'field list'<br />Error No: 1054<br />UPDATE oc_news SET image = 'data/news/torneo-ultra-bench_480.jpg' WHERE news_id = '1' in W:\home\opencat.dev\www\system\database\mysql.php on line 50
+2013-10-13 23:23:17 - PHP Notice:  Error: Unknown column 'image' in 'field list'<br />Error No: 1054<br />UPDATE oc_news SET image = 'data/news/torneo-ultra-bench_480.jpg' WHERE news_id = '2' in W:\home\opencat.dev\www\system\database\mysql.php on line 50
+2013-10-13 23:23:52 - PHP Notice:  Error: Unknown column 'image' in 'field list'<br />Error No: 1054<br />UPDATE oc_news SET image = 'data/news/torneo-ultra-bench_480.jpg' WHERE news_id = '3' in W:\home\opencat.dev\www\system\database\mysql.php on line 50
+2013-10-13 23:26:36 - PHP Notice:  Error: Unknown column 'meta_description' in 'field list'<br />Error No: 1054<br />INSERT INTO oc_news_description SET news_id = '4', language_id = '1', title = 'Новая новость', meta_description = 'Новая новость', description = '&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://opencat.dev/image/data/news/torneo-ultra-bench_480.jpg&quot; style=&quot;width: 130px; height: 103px; float: left; margin-left: 5px; margin-right: 5px;&quot; /&gt;Новая новость текст&amp;nbsp;&lt;span style=&quot;font-size: 13px;&quot;&gt;Новая новость текст&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Новая новость текст&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Новая новость текст&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Новая новость текст&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Новая новость текст&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Новая новость текст&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Новая новость текст&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Новая новость текст&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Новая новость текст&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Новая новость текст&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Новая новость текст&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Новая новость текст&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Новая новость текст&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Новая новость текст&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Новая новость текст&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Новая новость текст&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Новая новость текст&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Новая новость текст&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Новая новость текст&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Новая новость текст&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Новая новость текст&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Новая новость текст&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Новая новость текст&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Новая новость текст&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Новая новость текст&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\r\n' in W:\home\opencat.dev\www\system\database\mysql.php on line 50
