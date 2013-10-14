@@ -1,0 +1,37 @@
+2013-10-14 8:47:21 - PHP Notice:  Undefined index: en in /home/shusharin-v/projects/rasp-opencart.dev/index.php on line 180
+2013-10-14 8:47:21 - PHP Notice:  Undefined index: en in /home/shusharin-v/projects/rasp-opencart.dev/index.php on line 181
+2013-10-14 8:47:21 - PHP Notice:  Undefined index: en in /home/shusharin-v/projects/rasp-opencart.dev/index.php on line 184
+2013-10-14 8:47:21 - PHP Notice:  Undefined index: en in /home/shusharin-v/projects/rasp-opencart.dev/index.php on line 185
+2013-10-14 8:47:21 - PHP Notice:  Error: Could not load language ! in /home/shusharin-v/projects/rasp-opencart.dev/system/library/language.php on line 39
+2013-10-14 8:47:21 - PHP Notice:  Error: Could not load language module/featured! in /home/shusharin-v/projects/rasp-opencart.dev/system/library/language.php on line 39
+2013-10-14 8:47:21 - PHP Notice:  Error: Could not load template /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/themedefault/template/module/featured.tpl! in /home/shusharin-v/projects/rasp-opencart.dev/system/engine/controller.php on line 90
+2013-10-14 8:47:30 - PHP Notice:  Undefined index: en in /home/shusharin-v/projects/rasp-opencart.dev/index.php on line 180
+2013-10-14 8:47:30 - PHP Notice:  Undefined index: en in /home/shusharin-v/projects/rasp-opencart.dev/index.php on line 181
+2013-10-14 8:47:30 - PHP Notice:  Undefined index: en in /home/shusharin-v/projects/rasp-opencart.dev/index.php on line 184
+2013-10-14 8:47:30 - PHP Notice:  Undefined index: en in /home/shusharin-v/projects/rasp-opencart.dev/index.php on line 185
+2013-10-14 8:47:30 - PHP Notice:  Error: Could not load language ! in /home/shusharin-v/projects/rasp-opencart.dev/system/library/language.php on line 39
+2013-10-14 8:47:30 - PHP Notice:  Error: Could not load template /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/themedefault/template/module/featured.tpl! in /home/shusharin-v/projects/rasp-opencart.dev/system/engine/controller.php on line 90
+2013-10-14 8:47:37 - PHP Notice:  Undefined index: en in /home/shusharin-v/projects/rasp-opencart.dev/index.php on line 180
+2013-10-14 8:47:37 - PHP Notice:  Undefined index: en in /home/shusharin-v/projects/rasp-opencart.dev/index.php on line 181
+2013-10-14 8:47:37 - PHP Notice:  Undefined index: en in /home/shusharin-v/projects/rasp-opencart.dev/index.php on line 184
+2013-10-14 8:47:37 - PHP Notice:  Undefined index: en in /home/shusharin-v/projects/rasp-opencart.dev/index.php on line 185
+2013-10-14 8:47:37 - PHP Notice:  Error: Could not load language ! in /home/shusharin-v/projects/rasp-opencart.dev/system/library/language.php on line 39
+2013-10-14 8:47:37 - PHP Notice:  Undefined index:  in /home/shusharin-v/projects/rasp-opencart.dev/catalog/controller/module/welcome.php on line 8
+2013-10-14 8:47:42 - PHP Notice:  Undefined index: en in /home/shusharin-v/projects/rasp-opencart.dev/index.php on line 180
+2013-10-14 8:47:42 - PHP Notice:  Undefined index: en in /home/shusharin-v/projects/rasp-opencart.dev/index.php on line 181
+2013-10-14 8:47:42 - PHP Notice:  Undefined index: en in /home/shusharin-v/projects/rasp-opencart.dev/index.php on line 184
+2013-10-14 8:47:42 - PHP Notice:  Undefined index: en in /home/shusharin-v/projects/rasp-opencart.dev/index.php on line 185
+2013-10-14 8:47:42 - PHP Notice:  Error: Could not load language ! in /home/shusharin-v/projects/rasp-opencart.dev/system/library/language.php on line 39
+2013-10-14 8:47:42 - PHP Notice:  Undefined index:  in /home/shusharin-v/projects/rasp-opencart.dev/catalog/controller/module/welcome.php on line 8
+2013-10-14 8:47:51 - PHP Notice:  Undefined index: en in /home/shusharin-v/projects/rasp-opencart.dev/index.php on line 180
+2013-10-14 8:47:51 - PHP Notice:  Undefined index: en in /home/shusharin-v/projects/rasp-opencart.dev/index.php on line 181
+2013-10-14 8:47:51 - PHP Notice:  Undefined index: en in /home/shusharin-v/projects/rasp-opencart.dev/index.php on line 184
+2013-10-14 8:47:51 - PHP Notice:  Undefined index: en in /home/shusharin-v/projects/rasp-opencart.dev/index.php on line 185
+2013-10-14 8:47:51 - PHP Notice:  Error: Could not load language ! in /home/shusharin-v/projects/rasp-opencart.dev/system/library/language.php on line 39
+2013-10-14 8:47:51 - PHP Notice:  Undefined index:  in /home/shusharin-v/projects/rasp-opencart.dev/catalog/controller/module/welcome.php on line 8
+2013-10-14 8:47:56 - PHP Notice:  Undefined index: en in /home/shusharin-v/projects/rasp-opencart.dev/index.php on line 180
+2013-10-14 8:47:56 - PHP Notice:  Undefined index: en in /home/shusharin-v/projects/rasp-opencart.dev/index.php on line 181
+2013-10-14 8:47:56 - PHP Notice:  Undefined index: en in /home/shusharin-v/projects/rasp-opencart.dev/index.php on line 184
+2013-10-14 8:47:56 - PHP Notice:  Undefined index: en in /home/shusharin-v/projects/rasp-opencart.dev/index.php on line 185
+2013-10-14 8:47:56 - PHP Notice:  Error: Could not load language ! in /home/shusharin-v/projects/rasp-opencart.dev/system/library/language.php on line 39
+2013-10-14 8:47:56 - PHP Notice:  Undefined index:  in /home/shusharin-v/projects/rasp-opencart.dev/catalog/controller/module/welcome.php on line 8
