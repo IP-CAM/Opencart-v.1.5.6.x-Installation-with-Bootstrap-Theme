@@ -1,4 +1,5 @@
 config.php
+admin/config.php
 #cache/*
 #!cache/mod_jw_srfr
 #logs/*

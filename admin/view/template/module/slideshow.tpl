@@ -1,4 +1,9 @@
 <?php echo $header; ?>
+<?php if ($module['position'] == 'head_bottom') { ?>
+<option value="head_bottom" selected="selected"><?php echo $text_head_bottom; ?></option>
+<?php } else { ?>
+<option value="head_bottom"><?php echo $text_head_bottom; ?></option>
+ <?php } ?>
 <div id="content">
   <div class="breadcrumb">
     <?php foreach ($breadcrumbs as $breadcrumb) { ?>
@@ -133,6 +138,7 @@ function addModule() {
 	html += '    <td class="left"><a onclick="$(\'#module-row' + module_row + '\').remove();" class="button"><?php echo $button_remove; ?></a></td>';
 	html += '  </tr>';
 	html += '</tbody>';
+  html += '      <option value="head_bottom"><?php echo $text_head_bottom; ?></option>';
 	
 	$('#module tfoot').before(html);
 	

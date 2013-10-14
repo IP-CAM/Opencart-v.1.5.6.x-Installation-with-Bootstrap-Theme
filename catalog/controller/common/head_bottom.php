@@ -43,11 +43,17 @@ class ControllerCommonHeadBottom extends Controller {
 		$extensions = $this->model_setting_extension->getExtensions('module');		
 		
 		foreach ($extensions as $extension) {
+// echo "<pre>";
+// var_dump($extension);
 			$modules = $this->config->get($extension['code'] . '_module');
-echo "<pre>";
-var_dump($modules);	die;		
+
+// echo "<pre>";
+// var_dump($modules);		
 			if ($modules) {
 				foreach ($modules as $module) {
+// echo "<pre>";
+// var_dump($module);	
+// die;
 					if ($module['layout_id'] == $layout_id && $module['position'] == 'head_bottom' && $module['status']) {
 						$module_data[] = array(
 							'code'       => $extension['code'],
