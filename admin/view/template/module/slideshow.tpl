@@ -1,9 +1,4 @@
 <?php echo $header; ?>
-<?php if ($module['position'] == 'head_bottom') { ?>
-<option value="head_bottom" selected="selected"><?php echo $text_head_bottom; ?></option>
-<?php } else { ?>
-<option value="head_bottom"><?php echo $text_head_bottom; ?></option>
- <?php } ?>
 <div id="content">
   <div class="breadcrumb">
     <?php foreach ($breadcrumbs as $breadcrumb) { ?>
@@ -65,6 +60,13 @@
                   <?php } else { ?>
                   <option value="content_top"><?php echo $text_content_top; ?></option>
                   <?php } ?>
+<? // new position ?>
+                  <?php if ($module['position'] == 'head_bottom') { ?>
+                  <option value="head_bottom" selected="selected"><?php echo $text_head_bottom; ?></option>
+                  <?php } else { ?>
+                  <option value="head_bottom"><?php echo $text_head_bottom; ?></option>
+                   <?php } ?>
+<? // end new position ?>
                   <?php if ($module['position'] == 'content_bottom') { ?>
                   <option value="content_bottom" selected="selected"><?php echo $text_content_bottom; ?></option>
                   <?php } else { ?>
@@ -125,6 +127,9 @@ function addModule() {
 	<?php } ?>
 	html += '    </select></td>';
 	html += '    <td class="left"><select name="slideshow_module[' + module_row + '][position]">';
+// new position 
+  html += '      <option value="head_bottom"><?php echo $text_head_bottom; ?></option>';
+// end new position 
 	html += '      <option value="content_top"><?php echo $text_content_top; ?></option>';
 	html += '      <option value="content_bottom"><?php echo $text_content_bottom; ?></option>';
 	html += '      <option value="column_left"><?php echo $text_column_left; ?></option>';
@@ -138,7 +143,6 @@ function addModule() {
 	html += '    <td class="left"><a onclick="$(\'#module-row' + module_row + '\').remove();" class="button"><?php echo $button_remove; ?></a></td>';
 	html += '  </tr>';
 	html += '</tbody>';
-  html += '      <option value="head_bottom"><?php echo $text_head_bottom; ?></option>';
 	
 	$('#module tfoot').before(html);
 	

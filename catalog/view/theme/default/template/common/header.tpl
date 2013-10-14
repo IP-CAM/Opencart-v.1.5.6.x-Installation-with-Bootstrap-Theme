@@ -17,6 +17,9 @@
 <link href="<?php echo $link['href']; ?>" rel="<?php echo $link['rel']; ?>" />
 <?php } ?>
 <link rel="stylesheet" type="text/css" href="catalog/view/theme/default/stylesheet/stylesheet.css" />
+<? // RASP: add slider css ?>
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/default/stylesheet/slideshow.css" />
+<? // RASP: end add slider css ?>
 <?php foreach ($styles as $style) { ?>
 <link rel="<?php echo $style['rel']; ?>" type="text/css" href="<?php echo $style['href']; ?>" media="<?php echo $style['media']; ?>" />
 <?php } ?>
@@ -24,6 +27,9 @@
 <script type="text/javascript" src="catalog/view/javascript/jquery/ui/jquery-ui-1.8.16.custom.min.js"></script>
 <link rel="stylesheet" type="text/css" href="catalog/view/javascript/jquery/ui/themes/ui-lightness/jquery-ui-1.8.16.custom.css" />
 <script type="text/javascript" src="catalog/view/javascript/common.js"></script>
+<? // RASP: add slider script ?>
+<script type="text/javascript" src="catalog/view/javascript/jquery/nivo-slider/jquery.nivo.slider.pack.js"></script>
+<? // RASP: end add slider script ?>
 <?php foreach ($scripts as $script) { ?>
 <script type="text/javascript" src="<?php echo $script; ?>"></script>
 <?php } ?>
@@ -101,7 +107,7 @@ $('body').prepend('<iframe src="<?php echo $store; ?>" style="display: none;"></
 </div>
 <?php } ?>
 <div id="head_bottom">
-  <?php $head_bottom; ?>
+  <?php echo $head_bottom; ?>
 </div>
 <?php if ($error) { ?>
     

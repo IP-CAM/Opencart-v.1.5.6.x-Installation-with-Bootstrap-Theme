@@ -147,6 +147,11 @@ class ControllerCommonHeader extends Controller {
 			$this->template = 'default/template/common/header.tpl';
 		}
 		
+// add position
+		$this->children = array(    
+			'common/head_bottom'
+		);
+
     	$this->render();
 	} 	
 }
