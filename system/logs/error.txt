@@ -254,3 +254,153 @@
 2013-10-14 11:53:17 - PHP Notice:  Undefined variable: language in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 63
 2013-10-14 11:53:17 - PHP Notice:  Undefined variable: currency in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 64
 2013-10-14 11:53:17 - PHP Notice:  Undefined variable: cart in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 65
+2013-10-15 12:05:42 - PHP Notice:  Undefined variable: language in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 63
+2013-10-15 12:05:42 - PHP Notice:  Undefined variable: currency in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 64
+2013-10-15 12:05:42 - PHP Notice:  Undefined variable: cart in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 65
+2013-10-15 12:06:56 - PHP Notice:  Undefined variable: language in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 63
+2013-10-15 12:06:56 - PHP Notice:  Undefined variable: currency in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 64
+2013-10-15 12:06:56 - PHP Notice:  Undefined variable: cart in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 65
+2013-10-15 12:11:07 - PHP Notice:  Undefined variable: language in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 63
+2013-10-15 12:11:07 - PHP Notice:  Undefined variable: currency in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 64
+2013-10-15 12:11:07 - PHP Notice:  Undefined variable: cart in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 65
+2013-10-15 12:11:09 - PHP Notice:  Undefined variable: language in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 63
+2013-10-15 12:11:09 - PHP Notice:  Undefined variable: currency in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 64
+2013-10-15 12:11:09 - PHP Notice:  Undefined variable: cart in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 65
+2013-10-15 12:11:53 - PHP Notice:  Undefined variable: language in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 63
+2013-10-15 12:11:53 - PHP Notice:  Undefined variable: currency in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 64
+2013-10-15 12:11:53 - PHP Notice:  Undefined variable: cart in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 65
+2013-10-15 12:11:55 - PHP Notice:  Undefined variable: language in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 63
+2013-10-15 12:11:55 - PHP Notice:  Undefined variable: currency in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 64
+2013-10-15 12:11:55 - PHP Notice:  Undefined variable: cart in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 65
+2013-10-15 12:13:54 - PHP Notice:  Undefined variable: language in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 63
+2013-10-15 12:13:54 - PHP Notice:  Undefined variable: currency in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 64
+2013-10-15 12:13:54 - PHP Notice:  Undefined variable: cart in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 65
+2013-10-15 12:14:33 - PHP Notice:  Undefined index: en in /home/shusharin-v/projects/rasp-opencart.dev/index.php on line 180
+2013-10-15 12:14:33 - PHP Notice:  Undefined index: en in /home/shusharin-v/projects/rasp-opencart.dev/index.php on line 181
+2013-10-15 12:14:33 - PHP Notice:  Undefined index: en in /home/shusharin-v/projects/rasp-opencart.dev/index.php on line 184
+2013-10-15 12:14:33 - PHP Notice:  Undefined index: en in /home/shusharin-v/projects/rasp-opencart.dev/index.php on line 185
+2013-10-15 12:14:33 - PHP Notice:  Error: Could not load language ! in /home/shusharin-v/projects/rasp-opencart.dev/system/library/language.php on line 39
+2013-10-15 12:14:33 - PHP Notice:  Undefined index:  in /home/shusharin-v/projects/rasp-opencart.dev/catalog/controller/module/welcome.php on line 8
+2013-10-15 12:14:33 - PHP Notice:  Undefined variable: language in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 63
+2013-10-15 12:14:33 - PHP Notice:  Undefined variable: currency in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 64
+2013-10-15 12:14:33 - PHP Notice:  Undefined variable: cart in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 65
+2013-10-15 12:23:28 - PHP Notice:  Undefined variable: language in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 63
+2013-10-15 12:23:28 - PHP Notice:  Undefined variable: currency in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 64
+2013-10-15 12:23:28 - PHP Notice:  Undefined variable: cart in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 65
+2013-10-15 12:25:50 - PHP Notice:  Undefined index: en in /home/shusharin-v/projects/rasp-opencart.dev/index.php on line 180
+2013-10-15 12:25:50 - PHP Notice:  Undefined index: en in /home/shusharin-v/projects/rasp-opencart.dev/index.php on line 181
+2013-10-15 12:25:50 - PHP Notice:  Undefined index: en in /home/shusharin-v/projects/rasp-opencart.dev/index.php on line 184
+2013-10-15 12:25:50 - PHP Notice:  Undefined index: en in /home/shusharin-v/projects/rasp-opencart.dev/index.php on line 185
+2013-10-15 12:25:50 - PHP Notice:  Error: Could not load language ! in /home/shusharin-v/projects/rasp-opencart.dev/system/library/language.php on line 39
+2013-10-15 12:25:50 - PHP Notice:  Undefined index:  in /home/shusharin-v/projects/rasp-opencart.dev/catalog/controller/module/welcome.php on line 8
+2013-10-15 12:25:50 - PHP Notice:  Undefined variable: language in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 63
+2013-10-15 12:25:50 - PHP Notice:  Undefined variable: currency in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 64
+2013-10-15 12:25:50 - PHP Notice:  Undefined variable: cart in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 65
+2013-10-15 12:25:53 - PHP Notice:  Undefined index: en in /home/shusharin-v/projects/rasp-opencart.dev/index.php on line 180
+2013-10-15 12:25:53 - PHP Notice:  Undefined index: en in /home/shusharin-v/projects/rasp-opencart.dev/index.php on line 181
+2013-10-15 12:25:53 - PHP Notice:  Undefined index: en in /home/shusharin-v/projects/rasp-opencart.dev/index.php on line 184
+2013-10-15 12:25:53 - PHP Notice:  Undefined index: en in /home/shusharin-v/projects/rasp-opencart.dev/index.php on line 185
+2013-10-15 12:25:53 - PHP Notice:  Error: Could not load language ! in /home/shusharin-v/projects/rasp-opencart.dev/system/library/language.php on line 39
+2013-10-15 12:25:53 - PHP Notice:  Undefined index:  in /home/shusharin-v/projects/rasp-opencart.dev/catalog/controller/module/welcome.php on line 8
+2013-10-15 12:25:53 - PHP Notice:  Undefined variable: language in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 63
+2013-10-15 12:25:53 - PHP Notice:  Undefined variable: currency in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 64
+2013-10-15 12:25:53 - PHP Notice:  Undefined variable: cart in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 65
+2013-10-15 12:38:19 - PHP Notice:  Undefined index: en in /home/shusharin-v/projects/rasp-opencart.dev/index.php on line 180
+2013-10-15 12:38:19 - PHP Notice:  Undefined index: en in /home/shusharin-v/projects/rasp-opencart.dev/index.php on line 181
+2013-10-15 12:38:19 - PHP Notice:  Undefined index: en in /home/shusharin-v/projects/rasp-opencart.dev/index.php on line 184
+2013-10-15 12:38:19 - PHP Notice:  Undefined index: en in /home/shusharin-v/projects/rasp-opencart.dev/index.php on line 185
+2013-10-15 12:38:19 - PHP Notice:  Error: Could not load language ! in /home/shusharin-v/projects/rasp-opencart.dev/system/library/language.php on line 41
+2013-10-15 12:38:19 - PHP Notice:  Undefined index:  in /home/shusharin-v/projects/rasp-opencart.dev/catalog/controller/module/welcome.php on line 8
+2013-10-15 12:38:19 - PHP Notice:  Undefined variable: language in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 63
+2013-10-15 12:38:19 - PHP Notice:  Undefined variable: currency in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 64
+2013-10-15 12:38:19 - PHP Notice:  Undefined variable: cart in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 65
+2013-10-15 12:38:52 - PHP Notice:  Undefined index: en in /home/shusharin-v/projects/rasp-opencart.dev/index.php on line 180
+2013-10-15 12:38:52 - PHP Notice:  Undefined index: en in /home/shusharin-v/projects/rasp-opencart.dev/index.php on line 181
+2013-10-15 12:38:52 - PHP Notice:  Undefined index: en in /home/shusharin-v/projects/rasp-opencart.dev/index.php on line 184
+2013-10-15 12:38:52 - PHP Notice:  Undefined index: en in /home/shusharin-v/projects/rasp-opencart.dev/index.php on line 185
+2013-10-15 12:38:52 - PHP Notice:  Error: Could not load language ! in /home/shusharin-v/projects/rasp-opencart.dev/system/library/language.php on line 35
+2013-10-15 12:41:23 - PHP Notice:  Undefined index: en in /home/shusharin-v/projects/rasp-opencart.dev/index.php on line 180
+2013-10-15 12:41:23 - PHP Notice:  Undefined index: en in /home/shusharin-v/projects/rasp-opencart.dev/index.php on line 181
+2013-10-15 12:41:23 - PHP Notice:  Undefined index: en in /home/shusharin-v/projects/rasp-opencart.dev/index.php on line 184
+2013-10-15 12:41:23 - PHP Notice:  Undefined index: en in /home/shusharin-v/projects/rasp-opencart.dev/index.php on line 185
+2013-10-15 12:41:23 - PHP Notice:  Error: Could not load language ! in /home/shusharin-v/projects/rasp-opencart.dev/system/library/language.php on line 35
+2013-10-15 12:44:26 - PHP Notice:  Undefined index: en in /home/shusharin-v/projects/rasp-opencart.dev/index.php on line 180
+2013-10-15 12:44:26 - PHP Notice:  Undefined index: en in /home/shusharin-v/projects/rasp-opencart.dev/index.php on line 181
+2013-10-15 12:44:26 - PHP Notice:  Undefined index: en in /home/shusharin-v/projects/rasp-opencart.dev/index.php on line 184
+2013-10-15 12:44:26 - PHP Notice:  Undefined index: en in /home/shusharin-v/projects/rasp-opencart.dev/index.php on line 185
+2013-10-15 12:44:26 - PHP Notice:  Error: Could not load language ! in /home/shusharin-v/projects/rasp-opencart.dev/system/library/language.php on line 35
+2013-10-15 12:44:26 - PHP Notice:  Undefined index:  in /home/shusharin-v/projects/rasp-opencart.dev/catalog/controller/module/welcome.php on line 8
+2013-10-15 12:44:26 - PHP Notice:  Undefined variable: language in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 63
+2013-10-15 12:44:26 - PHP Notice:  Undefined variable: currency in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 64
+2013-10-15 12:44:26 - PHP Notice:  Undefined variable: cart in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 65
+2013-10-15 12:45:05 - PHP Notice:  Undefined index: en in /home/shusharin-v/projects/rasp-opencart.dev/index.php on line 180
+2013-10-15 12:45:05 - PHP Notice:  Undefined index: en in /home/shusharin-v/projects/rasp-opencart.dev/index.php on line 181
+2013-10-15 12:45:05 - PHP Notice:  Undefined index: en in /home/shusharin-v/projects/rasp-opencart.dev/index.php on line 184
+2013-10-15 12:45:05 - PHP Notice:  Undefined index: en in /home/shusharin-v/projects/rasp-opencart.dev/index.php on line 185
+2013-10-15 12:45:05 - PHP Notice:  Error: Could not load language ! in /home/shusharin-v/projects/rasp-opencart.dev/system/library/language.php on line 35
+2013-10-15 12:45:05 - PHP Notice:  Undefined index:  in /home/shusharin-v/projects/rasp-opencart.dev/catalog/controller/module/welcome.php on line 8
+2013-10-15 12:45:05 - PHP Notice:  Undefined variable: language in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 63
+2013-10-15 12:45:05 - PHP Notice:  Undefined variable: currency in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 64
+2013-10-15 12:45:05 - PHP Notice:  Undefined variable: cart in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 65
+2013-10-15 12:45:07 - PHP Notice:  Undefined index: en in /home/shusharin-v/projects/rasp-opencart.dev/index.php on line 180
+2013-10-15 12:45:07 - PHP Notice:  Undefined index: en in /home/shusharin-v/projects/rasp-opencart.dev/index.php on line 181
+2013-10-15 12:45:07 - PHP Notice:  Undefined index: en in /home/shusharin-v/projects/rasp-opencart.dev/index.php on line 184
+2013-10-15 12:45:07 - PHP Notice:  Undefined index: en in /home/shusharin-v/projects/rasp-opencart.dev/index.php on line 185
+2013-10-15 12:45:07 - PHP Notice:  Error: Could not load language ! in /home/shusharin-v/projects/rasp-opencart.dev/system/library/language.php on line 35
+2013-10-15 12:45:07 - PHP Notice:  Undefined index:  in /home/shusharin-v/projects/rasp-opencart.dev/catalog/controller/module/welcome.php on line 8
+2013-10-15 12:45:07 - PHP Notice:  Undefined variable: language in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 63
+2013-10-15 12:45:07 - PHP Notice:  Undefined variable: currency in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 64
+2013-10-15 12:45:07 - PHP Notice:  Undefined variable: cart in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 65
+2013-10-15 12:51:48 - PHP Notice:  Undefined index: en in /home/shusharin-v/projects/rasp-opencart.dev/index.php on line 180
+2013-10-15 12:51:48 - PHP Notice:  Undefined index: en in /home/shusharin-v/projects/rasp-opencart.dev/index.php on line 181
+2013-10-15 12:51:48 - PHP Notice:  Undefined index: en in /home/shusharin-v/projects/rasp-opencart.dev/index.php on line 184
+2013-10-15 12:51:48 - PHP Notice:  Undefined index: en in /home/shusharin-v/projects/rasp-opencart.dev/index.php on line 185
+2013-10-15 12:51:48 - PHP Notice:  Error: Could not load language ! in /home/shusharin-v/projects/rasp-opencart.dev/system/library/language.php on line 35
+2013-10-15 12:51:48 - PHP Notice:  Undefined index:  in /home/shusharin-v/projects/rasp-opencart.dev/catalog/controller/module/welcome.php on line 8
+2013-10-15 12:51:48 - PHP Notice:  Undefined variable: language in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 63
+2013-10-15 12:51:48 - PHP Notice:  Undefined variable: currency in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 64
+2013-10-15 12:51:48 - PHP Notice:  Undefined variable: cart in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 65
+2013-10-15 12:52:03 - PHP Notice:  Undefined index: en in /home/shusharin-v/projects/rasp-opencart.dev/index.php on line 182
+2013-10-15 12:52:03 - PHP Notice:  Undefined index: en in /home/shusharin-v/projects/rasp-opencart.dev/index.php on line 183
+2013-10-15 12:52:03 - PHP Notice:  Undefined index: en in /home/shusharin-v/projects/rasp-opencart.dev/index.php on line 186
+2013-10-15 12:52:03 - PHP Notice:  Undefined index: en in /home/shusharin-v/projects/rasp-opencart.dev/index.php on line 187
+2013-10-15 12:52:03 - PHP Notice:  Error: Could not load language ! in /home/shusharin-v/projects/rasp-opencart.dev/system/library/language.php on line 35
+2013-10-15 12:52:03 - PHP Notice:  Undefined index:  in /home/shusharin-v/projects/rasp-opencart.dev/catalog/controller/module/welcome.php on line 8
+2013-10-15 12:52:03 - PHP Notice:  Undefined variable: language in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 63
+2013-10-15 12:52:03 - PHP Notice:  Undefined variable: currency in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 64
+2013-10-15 12:52:03 - PHP Notice:  Undefined variable: cart in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 65
+2013-10-15 12:53:01 - PHP Notice:  Undefined variable: language in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 63
+2013-10-15 12:53:01 - PHP Notice:  Undefined variable: currency in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 64
+2013-10-15 12:53:01 - PHP Notice:  Undefined variable: cart in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 65
+2013-10-15 12:53:22 - PHP Notice:  Undefined variable: language in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 63
+2013-10-15 12:53:22 - PHP Notice:  Undefined variable: currency in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 64
+2013-10-15 12:53:22 - PHP Notice:  Undefined variable: cart in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 65
+2013-10-15 12:55:28 - PHP Notice:  unserialize(): Error at offset 4493 of 51927 bytes in /home/shusharin-v/projects/rasp-opencart.dev/system/library/cache.php on line 11
+2013-10-15 12:56:18 - PHP Notice:  Undefined variable: language in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 63
+2013-10-15 12:56:18 - PHP Notice:  Undefined variable: currency in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 64
+2013-10-15 12:56:18 - PHP Notice:  Undefined variable: cart in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 65
+2013-10-15 12:56:20 - PHP Notice:  Undefined variable: language in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 63
+2013-10-15 12:56:20 - PHP Notice:  Undefined variable: currency in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 64
+2013-10-15 12:56:20 - PHP Notice:  Undefined variable: cart in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 65
+2013-10-15 12:56:21 - PHP Notice:  Undefined variable: language in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 63
+2013-10-15 12:56:21 - PHP Notice:  Undefined variable: currency in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 64
+2013-10-15 12:56:21 - PHP Notice:  Undefined variable: cart in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 65
+2013-10-15 12:56:22 - PHP Notice:  Undefined variable: language in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 63
+2013-10-15 12:56:22 - PHP Notice:  Undefined variable: currency in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 64
+2013-10-15 12:56:22 - PHP Notice:  Undefined variable: cart in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 65
+2013-10-15 12:56:57 - PHP Notice:  Undefined variable: language in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 63
+2013-10-15 12:56:57 - PHP Notice:  Undefined variable: currency in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 64
+2013-10-15 12:56:57 - PHP Notice:  Undefined variable: cart in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 65
+2013-10-15 13:26:32 - PHP Notice:  Undefined variable: language in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 63
+2013-10-15 13:26:32 - PHP Notice:  Undefined variable: currency in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 64
+2013-10-15 13:26:32 - PHP Notice:  Undefined variable: cart in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 65
+2013-10-15 13:35:15 - PHP Notice:  Undefined variable: language in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 63
+2013-10-15 13:35:15 - PHP Notice:  Undefined variable: currency in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 64
+2013-10-15 13:35:15 - PHP Notice:  Undefined variable: cart in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 65
+2013-10-15 13:42:21 - PHP Notice:  Undefined variable: language in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 63
+2013-10-15 13:42:21 - PHP Notice:  Undefined variable: currency in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 64
+2013-10-15 13:42:21 - PHP Notice:  Undefined variable: cart in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 65
+2013-10-15 13:43:09 - PHP Notice:  Undefined variable: language in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 63
+2013-10-15 13:43:09 - PHP Notice:  Undefined variable: currency in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 64
+2013-10-15 13:43:09 - PHP Notice:  Undefined variable: cart in /home/shusharin-v/projects/rasp-opencart.dev/catalog/view/theme/default/template/common/header.tpl on line 65
+2013-10-15 14:06:08 - PHP Notice:  Undefined variable: language_id in /home/shusharin-v/projects/rasp-opencart.dev/admin/controller/catalog/category.php on line 433

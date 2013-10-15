@@ -430,12 +430,12 @@ class ControllerCatalogCategory extends Controller {
 		if (!$this->user->hasPermission('modify', 'catalog/category')) {
 			$this->error['warning'] = $this->language->get('error_permission');
 		}
-
-		foreach ($this->request->post['category_description'] as $language_id => $value) {
-			if ((utf8_strlen($value['name']) < 2) || (utf8_strlen($value['name']) > 255)) {
-				$this->error['name'][$language_id] = $this->language->get('error_name');
-			}
-		}
+// ибо нехрен требовать от нас заполнять на буржуйском!
+		// foreach ($this->request->post['category_description'] as $language_id => $value) {
+		// 	if ((utf8_strlen($value['name']) < 2) || (utf8_strlen($value['name']) > 255)) {
+		// 		$this->error['name'][$language_id] = $this->language->get('error_name');
+		// 	}
+		// }
 		
 		if ($this->error && !isset($this->error['warning'])) {
 			$this->error['warning'] = $this->language->get('error_warning');
