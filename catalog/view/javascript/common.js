@@ -57,6 +57,26 @@ $(document).ready(function() {
 			$(this).css('margin-left', '-' + (i + 5) + 'px');
 		}
 	});
+	/* Mega Menu 2*/
+	$('#menu1 ul > li > a + div').each(function(index, element) {
+		// IE6 & IE7 Fixes
+		if ($.browser.msie && ($.browser.version == 7 || $.browser.version == 6)) {
+			var category = $(element).find('a');
+			var columns = $(element).find('ul').length;
+			
+			$(element).css('width', (columns * 143) + 'px');
+			$(element).find('ul').css('float', 'left');
+		}		
+		
+		// var menu = $('#menu1').offset();
+		// var dropdown = $(this).parent().offset();
+		
+		// i = (dropdown.left + $(this).outerWidth()) - (menu.left + $('#menu1').outerWidth());
+		
+		// if (i > 0) {
+		// 	$(this).css('margin-left', '-' + (i + 5) + 'px');
+		// }
+	});
 
 	// IE6 & IE7 Fixes
 	if ($.browser.msie) {

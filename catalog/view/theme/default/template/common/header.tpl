@@ -60,9 +60,9 @@ $('body').prepend('<iframe src="<?php echo $store; ?>" style="display: none;"></
   <?php if ($logo) { ?>
   <div id="logo"><a href="<?php echo $home; ?>"><img style="display:none;" src="<?php echo $logo; ?>" title="<?php echo $name; ?>" alt="<?php echo $name; ?>" />ezhi.biz</a></div>
   <?php } ?>
-  <?php echo $language; ?>
-  <?php echo $currency; ?>
-  <?php echo $cart; ?>
+  <?php //echo $language; ?>
+  <?php //echo $currency; ?>
+  <?php //echo $cart; ?>
   <div id="search" style="display:none;">
     <div class="button-search"></div>
     <input type="text" name="search" placeholder="<?php echo $text_search; ?>" value="<?php echo $search; ?>" />

@@ -24,9 +24,14 @@ class ControllerCommonHeader extends Controller {
 		$this->data['styles'] = $this->document->getStyles();
 		$this->data['scripts'] = $this->document->getScripts();
 		$this->data['lang'] = $this->language->get('code');
+		
 		$this->data['direction'] = $this->language->get('direction');
 		$this->data['google_analytics'] = html_entity_decode($this->config->get('config_google_analytics'), ENT_QUOTES, 'UTF-8');
 		$this->data['name'] = $this->config->get('config_name');
+// xak	variable	
+		$this->data['language'] = $this->language->get('code');
+		$this->data['currency'] = $this->currency->getCode();
+		$this->data['cart'] = $this->cart->getProducts();
 		
 		if ($this->config->get('config_icon') && file_exists(DIR_IMAGE . $this->config->get('config_icon'))) {
 			$this->data['icon'] = $server . 'image/' . $this->config->get('config_icon');
@@ -140,6 +145,8 @@ class ControllerCommonHeader extends Controller {
 			'module/currency',
 			'module/cart'
 		);
+// echo "<pre>";
+// 		var_dump($this->cart->getProducts());
 				
 		if (file_exists(DIR_TEMPLATE . $this->config->get('config_template') . '/template/common/header.tpl')) {
 			$this->template = $this->config->get('config_template') . '/template/common/header.tpl';
